@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Muhammad-Ahmad17
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning OOP (JAVA)- 
