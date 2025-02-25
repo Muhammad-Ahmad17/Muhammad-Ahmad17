@@ -1,1 +1,7 @@
-- 👋 Hi, I’m @Muhammad-Ahmad
+- 👋 Hi, I’m @Muhammad-Ahmad  
+- 🎓 Aspiring **Computer Engineer**  
+- 📚 Currently in **Semester 4**  
+- 🚀 Passionate about **Development & Computer Architecture**  
+- 🔍 Exploring **DBMS, COA, SNS, and more**  
+- 💻 Love **coding & building cool stuff**  
+- 🎯 Goal: **Create innovative projects**  
