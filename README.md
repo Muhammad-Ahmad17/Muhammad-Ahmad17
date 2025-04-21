@@ -1,4 +1,3 @@
-
 SmartRetail Insights: Full-Stack Data Analytics Web App
 
 Project Overview
@@ -229,21 +228,4 @@ End-to-end portfolio project demonstrating system design, development, and analy
 ---
 
 Let me know when to start building out each part and I’ll help you step by step!
-
-
-
-Your complete project proposal for SmartRetail Insights is ready! It includes the full plan covering backend, frontend, Python analytics, database schema, RBAC, and folder structure.
-
-If you're ready, we can start building this step by step:
-
-Set up SQL Server schema?
-
-Start with backend routes?
-
-Begin frontend design?
-
-Write the first Python analysis script?
-
-
-Let me know where you’d like to begin!
 
