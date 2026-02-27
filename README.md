@@ -39,10 +39,9 @@ I'm a 6th semester Computer Engineering student at COMSATS University, actively 
 
 ## 📊 GitHub Statistics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmad17&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=86400" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Muhammad-Ahmad17&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmad17&layout=compact&theme=tokyonight&cache_seconds=86400" />
-
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muhammad-Ahmad17&layout=compact&theme=tokyonight" />
 
 ---
 
@@ -77,7 +76,6 @@ I'm a 6th semester Computer Engineering student at COMSATS University, actively 
 ## 🎓 Education
 
 - **Bachelor of Science in Computer Engineering** - COMSATS University (Aug 2023 – May 2027) | GPA: 3.6/4.0
----
 
 ## 📫 Connect With Me
 
@@ -89,7 +87,6 @@ I'm a 6th semester Computer Engineering student at COMSATS University, actively 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aahmad.app)
 
 </div>
----
 
 <div align="center">
 
@@ -98,4 +95,5 @@ I'm a 6th semester Computer Engineering student at COMSATS University, actively 
 ![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Ahmad17&color=blue)
 
 </div>
+
 
