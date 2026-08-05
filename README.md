@@ -8,7 +8,7 @@
 
 ## 🚀 About
 
-6th semester Computer Engineering student at COMSATS University. Learning backend development, cloud technologies, and DevOps. Recently interned in backend development & CI/CD automation. Always building, learning, and collaborating.
+Final Year Computer Engineering student at COMSATS University. Learning backend development, cloud technologies, and DevOps. Recently interned in backend development & CI/CD automation. Always building, learning, and collaborating.
 
 ---
 
